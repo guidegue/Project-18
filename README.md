@@ -3,7 +3,7 @@
 
 | Matricule | Nom et Prénom | Partie |
 |-----------|---------------|--------|
-| 22B725FS  |GUIDEGUE Elysee|Base de données et connexion |
+| 22B725FS  |GUIDEGUE ELYSEE Base de données et connexion |
 | 23A382FS | DJONFANBE Valentin | Étudiants |
 | 23B017FS | MBAÏNDIGSSEM Dieudonné | Admin |
 | 23A115FS | IGNEBE Salomon Enhebe | Authentification |
